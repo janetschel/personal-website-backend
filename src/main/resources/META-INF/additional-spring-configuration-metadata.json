@@ -1,0 +1,8 @@
+{
+  "properties": [
+    {
+      "name": "mongodb.readUserURI",
+      "type": "java.lang.String",
+      "description": "Specifies an URI for a read-only user for the database."
+  }
+] }
